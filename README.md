@@ -1,3 +1,4 @@
+![ProjectFlow](https://user-images.githubusercontent.com/118094371/216183149-a7195b00-696d-4e4e-bed0-460eeeb1b2ec.png)
 # Google-Playstore-Data-Analytics-and-Visualization.
 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 for an organization based in San Fransisco. The project is based on getting insights from 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐀𝐩𝐩𝐬 having fields like App names, ratings, reviews, category, and many other fields. 
 🔷 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐍𝐚𝐦𝐞 - Playstore Apps Analysis & Visualization
